@@ -39,3 +39,5 @@ The notebook demonstrates:
 - Statistical calculations
 - Creating charts and graphs
 - Analyzing distributions
+
+- Youtube link [https://youtu.be/uUj1fAy5BPI]
